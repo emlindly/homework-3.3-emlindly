@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7"
+  },
+  "name": "homework-3.3-emlindly",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emlindly/homework-3.3-emlindly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emlindly/homework-3.3-emlindly/issues"
+  },
+  "homepage": "https://github.com/emlindly/homework-3.3-emlindly#readme"
+}
